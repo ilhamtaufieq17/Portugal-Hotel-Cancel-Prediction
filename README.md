@@ -19,7 +19,7 @@ The primary challenge is the unpredictability of cancellations, which hampers ef
 
 To get this project, you can clone it by running the following code:
 
-    git clone git@github.com:ilhamtaufieq17/NYC-TLC.git
+    git@github.com:ilhamtaufieq17/Portugal-Hotel-Cancel-Prediction.git
 
 
 ## Contribute
